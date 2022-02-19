@@ -1,0 +1,6 @@
+Plava			87aade
+Narandzasta		ffd42a
+Svetlo siva		f9f9f9
+Tamno siva		999999
+Bordura stavke	ececec
+Sivi tekst		b3b3b3
